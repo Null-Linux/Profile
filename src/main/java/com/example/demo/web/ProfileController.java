@@ -9,7 +9,7 @@ public class ProfileController {
 
 	@RequestMapping("/")
 	public String index(){
-		return "hosikawa";
+		return "index";
 	}
 	
 }
