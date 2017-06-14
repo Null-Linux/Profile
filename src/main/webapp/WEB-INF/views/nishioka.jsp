@@ -7,6 +7,22 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>西岡</h2>
+	<div>
+		<table>
+			<tr>
+				<td>名前：</td>
+				<td>西岡瑠香</td>
+			</tr>
+			<tr>
+				<td>趣味:</td>
+				<td>車の運転</td>
+			</tr>
+			<tr>
+				<td>自己PR:</td>
+				<td>プログラミングの経験がないため、スタートが不安ではありますが精一杯頑張ります。
+					<br>よろしくお願いいたします。</td>
+			</tr>
+		</table>
+	</div>
 </body>
 </html>
