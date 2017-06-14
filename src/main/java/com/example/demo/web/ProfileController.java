@@ -12,4 +12,10 @@ public class ProfileController {
 		return "index";
 	}
 	
+	@RequestMapping("/profile")
+	public String prifile(int id){
+		
+		return "";
+	}
+	
 }
