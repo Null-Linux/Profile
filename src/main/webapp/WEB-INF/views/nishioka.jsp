@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>西岡ゴリラ🐵</h2>
+	<h2>西岡</h2>
 </body>
 </html>
