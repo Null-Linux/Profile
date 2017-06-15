@@ -9,11 +9,13 @@
 </head>
 <body>
 
-<h1>自己紹介ページです</h1>
+<h1>チーム演習B班　自己紹介ページ</h1>
 <a href="<c:out value='${pageContext.request.contextPath}' />/profile?id=1">干川</a><br>
 <a href="<c:out value='${pageContext.request.contextPath}' />/profile?id=2">西岡</a><br>
 <a href="<c:out value='${pageContext.request.contextPath}' />/profile?id=3">勝又</a><br>
 <a href="<c:out value='${pageContext.request.contextPath}' />/profile?id=4">久山</a><br>
+<a href="<c:out value='${pageContext.request.contextPath}' />/profile?id=5">石橋</a><br>
+<a href="<c:out value='${pageContext.request.contextPath}' />/profile?id=6">四方</a><br>
 
 </body>
 </html>
