@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div>
-		<table>
+		<table border="1" width="600px">
 			<tr>
 				<td>名前：</td>
 				<td>久山勝生</td>
