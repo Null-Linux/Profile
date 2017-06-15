@@ -24,5 +24,6 @@
 			</tr>
 		</table>
 	</div>
+		<a href="<c:out value='${pageContext.request.contextPath}' />/">トップページへ戻る</a>
 </body>
 </html>
